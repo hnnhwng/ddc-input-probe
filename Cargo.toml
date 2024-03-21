@@ -1,0 +1,11 @@
+[package]
+name = "use-ddc"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ddc = "0.2.2"
+ddc-macos = "0.2.0"
+hex = "0.4.3"
